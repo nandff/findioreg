@@ -1,5 +1,4 @@
 /*
- * $Id: findusbuart.c,v 1.1 2012/06/28 23:28:09 nand Exp $
  * Copyright (C) 2012 Nozomu Ando <nand@mac.com> and others, see file forum.txt
  */
 
